@@ -1,0 +1,6 @@
+{
+  "name": "Rupesh Vastralaya & Shopping Mall - Retailer SaaS & E-Commerce",
+  "description": "Production-ready Indian local garment retailer e-commerce storefront and multitenant SaaS admin console with 5km local delivery geofencing, WhatsApp automation, and old-stock liquidation engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
